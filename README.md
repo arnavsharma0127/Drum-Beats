@@ -1,5 +1,5 @@
 # Drum-Beats
 
-### Type of animation play using HTML, CSS and JS.
+### Type of animation play using HTML and CSS.
 
 
