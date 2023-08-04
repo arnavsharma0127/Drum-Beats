@@ -10,6 +10,12 @@
 ### Type of animation play using HTML and CSS.
 ## Website View
 ![](view.png)
+# Drum-Beats
 
+### Type of animation play using HTML and CSS.
+## Website View
+![](view.png)
 
->>>>>>> da2bac61228f915555c85241e95afa659e79d85c
+### I have created a drumkit animation play using HTML, CSS and JS.
+
+Hosting URL: [Drumkit](https://gaaros.github.io/DRUMKIT/)
